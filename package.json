@@ -33,7 +33,7 @@
     "request": "",
     "require-all": "",
     "require-all-to-camel": "^1.0.0",
-    "ripple-gateway-webapp-example": "1.6.1",
+    "ripple-gateway-webapp-example": "1.7.0",
     "ripple-lib": "",
     "ripple-wallet": "1.0.0",
     "ripple-rest-client": "1.9.3",
